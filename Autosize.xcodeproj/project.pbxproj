@@ -39,20 +39,20 @@
 		4472E1421336419600E46FBC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4472E1441336419600E46FBC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4472E1461336419600E46FBC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4472E14A1336419600E46FBC /* Autosize-Info.plist */ = {isa = PBXFileReference; path = "Autosize-Info.plist"; sourceTree = "<group>"; };
+		4472E14A1336419600E46FBC /* Autosize-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Autosize-Info.plist"; sourceTree = "<group>"; };
 		4472E14C1336419600E46FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4472E14E1336419600E46FBC /* Autosize-Prefix.pch */ = {isa = PBXFileReference; path = "Autosize-Prefix.pch"; sourceTree = "<group>"; };
+		4472E14E1336419600E46FBC /* Autosize-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Autosize-Prefix.pch"; sourceTree = "<group>"; };
 		4472E14F1336419600E46FBC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4472E1511336419600E46FBC /* AutosizeAppDelegate.h */ = {isa = PBXFileReference; path = AutosizeAppDelegate.h; sourceTree = "<group>"; };
+		4472E1511336419600E46FBC /* AutosizeAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutosizeAppDelegate.h; sourceTree = "<group>"; };
 		4472E1521336419600E46FBC /* AutosizeAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutosizeAppDelegate.m; sourceTree = "<group>"; };
 		4472E1551336419600E46FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		4472E1571336419600E46FBC /* AutosizeViewController.h */ = {isa = PBXFileReference; path = AutosizeViewController.h; sourceTree = "<group>"; };
+		4472E1571336419600E46FBC /* AutosizeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutosizeViewController.h; sourceTree = "<group>"; };
 		4472E1581336419600E46FBC /* AutosizeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutosizeViewController.m; sourceTree = "<group>"; };
 		4472E15B1336419600E46FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/AutosizeViewController.xib; sourceTree = "<group>"; };
 		4472E1621336419600E46FBC /* AutosizeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutosizeTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4472E16A1336419600E46FBC /* AutosizeTests-Info.plist */ = {isa = PBXFileReference; path = "AutosizeTests-Info.plist"; sourceTree = "<group>"; };
+		4472E16A1336419600E46FBC /* AutosizeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutosizeTests-Info.plist"; sourceTree = "<group>"; };
 		4472E16C1336419600E46FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4472E16E1336419600E46FBC /* AutosizeTests-Prefix.pch */ = {isa = PBXFileReference; path = "AutosizeTests-Prefix.pch"; sourceTree = "<group>"; };
+		4472E16E1336419600E46FBC /* AutosizeTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AutosizeTests-Prefix.pch"; sourceTree = "<group>"; };
 		4472E16F1336419600E46FBC /* AutosizeTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutosizeTests.h; sourceTree = "<group>"; };
 		4472E1711336419600E46FBC /* AutosizeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutosizeTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
